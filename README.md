@@ -28,7 +28,7 @@
 <img width="988" alt="Ekran Resmi 2024-05-26 23 39 53" src="https://github.com/kadirdogru/MathQuiz/assets/148455059/61c8a49c-f720-4613-a251-78ddd2138ede">
 
 ## Oynanış Videosu
-https://drive.google.com/file/d/15XAU9cwTkorAEcaYiEF_C_YATgY1-JgE/view?usp=share_link
+https://www.youtube.com/watch?v=IGkY3Z9vsm8
 
 
 
