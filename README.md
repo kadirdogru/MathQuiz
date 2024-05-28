@@ -8,27 +8,30 @@
 5. Doğru cevaplar verildiğinde 2 puan artacak, yanlış cevaplar veya cevapsız bırakılan sorular için 1 puan azalacaktır.
 6. Oyun 60 saniye sonra sona erecektir.
 
+
+## Oynanış Videosu
+https://www.youtube.com/watch?v=IGkY3Z9vsm8
+
 ## Oyun içi Görüntüler
-### Başlangıç Ekranları
+### Başlangıç Ekranı-1
 
 <img width="995" alt="Ekran Resmi 2024-05-26 23 38 51" src="https://github.com/kadirdogru/MathQuiz/assets/148455059/e9952aec-27d6-4617-bcba-7dfac9911cc6">
 
 
 
 
-
+### Başlangıç Ekranı-2
 <img width="992" alt="Ekran Resmi 2024-05-26 23 39 06" src="https://github.com/kadirdogru/MathQuiz/assets/148455059/120427f6-e064-4a61-82ac-2020bdb46098">
 
 
-### Oyun Ekranları
+## Oyun Ekranları
 
-
+### Oyun Ekranı-1
 <img width="993" alt="Ekran Resmi 2024-05-26 23 39 47" src="https://github.com/kadirdogru/MathQuiz/assets/148455059/de385a06-c294-4323-bc32-abac076291fa">
 
-<img width="988" alt="Ekran Resmi 2024-05-26 23 39 53" src="https://github.com/kadirdogru/MathQuiz/assets/148455059/61c8a49c-f720-4613-a251-78ddd2138ede">
 
-## Oynanış Videosu
-https://www.youtube.com/watch?v=IGkY3Z9vsm8
+### Oyun Ekranı-2
+<img width="988" alt="Ekran Resmi 2024-05-26 23 39 53" src="https://github.com/kadirdogru/MathQuiz/assets/148455059/61c8a49c-f720-4613-a251-78ddd2138ede">
 
 
 
